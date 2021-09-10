@@ -1,6 +1,6 @@
 # counter_app
 
-A new Flutter project.
+My first app developed in flutter framework, it's a simple counter
 
 ## Getting Started
 
